@@ -1,0 +1,11 @@
+@media screen and (min-width: 1024px) {
+    .text-center {width: 50%; 
+        margin: auto;}
+    
+  }
+
+  .text-center 
+  {
+      margin-top: 20px;
+  }
+  
